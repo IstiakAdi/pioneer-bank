@@ -1,0 +1,31 @@
+body{
+    padding: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+.welcome-title{
+    font-weight: 600;
+}
+.login-content{
+    margin-top: 60px;
+    padding: 40px;
+    border-radius: 6px;
+    box-shadow: 5px 5px 10px grey;
+}
+#transaction-area{
+    display: none;
+}
+.deposite{
+    background-color: rgb(88, 4, 197);
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.content-box{
+    margin: 5px 30px;
+    padding: 60px;
+    border-radius: 10px;
+   
+}
